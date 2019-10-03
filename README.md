@@ -1,0 +1,1 @@
+A command-line implementation of the Mastermind board game.  Done as part of The Odin Project.
