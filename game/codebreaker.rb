@@ -1,8 +1,8 @@
-class Player
-  attr_accessor :player_colors
+class Codebreaker
+  attr_accessor :colors
 
   def initialize
-    @player_colors = []
+    @colors = []
   end
 
   def show_selection
